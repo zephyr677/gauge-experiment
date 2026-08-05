@@ -1,0 +1,108 @@
+[orig_adamw_lr0.0003_seed0] step    0  loss 3.0084
+[orig_adamw_lr0.0003_seed0] step   25  loss 3.2150
+[orig_adamw_lr0.0003_seed0] step   50  loss 2.9461
+[orig_adamw_lr0.0003_seed0] step   75  loss 3.1428
+[orig_adamw_lr0.0003_seed0] step  100  loss 3.1777
+[orig_adamw_lr0.0003_seed0] step  125  loss 2.9752
+[orig_adamw_lr0.0003_seed0] step  150  loss 2.9940
+[orig_adamw_lr0.0003_seed0] step  175  loss 3.6312
+[orig_adamw_lr0.0003_seed0] step  200  loss 3.9415
+[orig_adamw_lr0.0003_seed0] step  225  loss 3.4162
+[orig_adamw_lr0.0003_seed0] step  250  loss 3.2400
+[orig_adamw_lr0.0003_seed0] step  275  loss 3.1698
+[orig_adamw_lr0.0003_seed0] step  300  loss 3.2428
+[orig_adamw_lr0.0003_seed0] step  325  loss 3.4985
+[orig_adamw_lr0.0003_seed0] step  350  loss 3.3432
+[orig_adamw_lr0.0003_seed0] step  375  loss 3.3015
+[done] results/orig_adamw_lr0.0003_seed0.csv
+[rot_adamw_lr0.0003_seed0] step    0  loss 3.0084
+[rot_adamw_lr0.0003_seed0] step   25  loss 4.8378
+[rot_adamw_lr0.0003_seed0] step   50  loss 3.6889
+[rot_adamw_lr0.0003_seed0] step   75  loss 3.7084
+[rot_adamw_lr0.0003_seed0] step  100  loss 3.7562
+[rot_adamw_lr0.0003_seed0] step  125  loss 3.4305
+[rot_adamw_lr0.0003_seed0] step  150  loss 3.5073
+[rot_adamw_lr0.0003_seed0] step  175  loss 3.6626
+[rot_adamw_lr0.0003_seed0] step  200  loss 3.6261
+[rot_adamw_lr0.0003_seed0] step  225  loss 3.4822
+[rot_adamw_lr0.0003_seed0] step  250  loss 3.2948
+[rot_adamw_lr0.0003_seed0] step  275  loss 3.3158
+[rot_adamw_lr0.0003_seed0] step  300  loss 3.4651
+[rot_adamw_lr0.0003_seed0] step  325  loss 3.3721
+[rot_adamw_lr0.0003_seed0] step  350  loss 3.2577
+[rot_adamw_lr0.0003_seed0] step  375  loss 3.4141
+[done] results/rot_adamw_lr0.0003_seed0.csv
+[orig_adamw_lr0.0003_seed1] step    0  loss 3.0625
+[orig_adamw_lr0.0003_seed1] step   25  loss 3.2194
+[orig_adamw_lr0.0003_seed1] step   50  loss 4.0393
+[orig_adamw_lr0.0003_seed1] step   75  loss 3.2723
+[orig_adamw_lr0.0003_seed1] step  100  loss 3.5305
+[orig_adamw_lr0.0003_seed1] step  125  loss 3.2563
+[orig_adamw_lr0.0003_seed1] step  150  loss 3.4155
+[orig_adamw_lr0.0003_seed1] step  175  loss 3.1697
+[orig_adamw_lr0.0003_seed1] step  200  loss 3.0302
+[orig_adamw_lr0.0003_seed1] step  225  loss 3.2941
+[orig_adamw_lr0.0003_seed1] step  250  loss 3.0343
+[orig_adamw_lr0.0003_seed1] step  275  loss 3.1303
+[orig_adamw_lr0.0003_seed1] step  300  loss 3.2929
+[orig_adamw_lr0.0003_seed1] step  325  loss 3.0958
+[orig_adamw_lr0.0003_seed1] step  350  loss 3.1800
+[orig_adamw_lr0.0003_seed1] step  375  loss 3.0937
+[done] results/orig_adamw_lr0.0003_seed1.csv
+[rot_adamw_lr0.0003_seed1] step    0  loss 3.0625
+[rot_adamw_lr0.0003_seed1] step   25  loss 3.9406
+[rot_adamw_lr0.0003_seed1] step   50  loss 3.4904
+[rot_adamw_lr0.0003_seed1] step   75  loss 3.5547
+[rot_adamw_lr0.0003_seed1] step  100  loss 3.6794
+[rot_adamw_lr0.0003_seed1] step  125  loss 3.3877
+[rot_adamw_lr0.0003_seed1] step  150  loss 3.4882
+[rot_adamw_lr0.0003_seed1] step  175  loss 3.4272
+[rot_adamw_lr0.0003_seed1] step  200  loss 3.3219
+[rot_adamw_lr0.0003_seed1] step  225  loss 3.5347
+[rot_adamw_lr0.0003_seed1] step  250  loss 3.2451
+[rot_adamw_lr0.0003_seed1] step  275  loss 3.3550
+[rot_adamw_lr0.0003_seed1] step  300  loss 3.5520
+[rot_adamw_lr0.0003_seed1] step  325  loss 3.3847
+[rot_adamw_lr0.0003_seed1] step  350  loss 3.3641
+[rot_adamw_lr0.0003_seed1] step  375  loss 3.3333
+[done] results/rot_adamw_lr0.0003_seed1.csv
+[orig_adamw_lr0.0003_seed2] step    0  loss 3.0161
+[orig_adamw_lr0.0003_seed2] step   25  loss 3.0755
+[orig_adamw_lr0.0003_seed2] step   50  loss 3.1370
+[orig_adamw_lr0.0003_seed2] step   75  loss 3.1449
+[orig_adamw_lr0.0003_seed2] step  100  loss 2.9877
+[orig_adamw_lr0.0003_seed2] step  125  loss 3.2064
+[orig_adamw_lr0.0003_seed2] step  150  loss 3.0855
+[orig_adamw_lr0.0003_seed2] step  175  loss 3.0622
+[orig_adamw_lr0.0003_seed2] step  200  loss 3.1622
+[orig_adamw_lr0.0003_seed2] step  225  loss 2.9574
+[orig_adamw_lr0.0003_seed2] step  250  loss 3.1442
+[orig_adamw_lr0.0003_seed2] step  275  loss 3.2822
+[orig_adamw_lr0.0003_seed2] step  300  loss 3.2417
+[orig_adamw_lr0.0003_seed2] step  325  loss 3.3144
+[orig_adamw_lr0.0003_seed2] step  350  loss 3.1149
+[orig_adamw_lr0.0003_seed2] step  375  loss 2.9046
+[done] results/orig_adamw_lr0.0003_seed2.csv
+[rot_adamw_lr0.0003_seed2] step    0  loss 3.0161
+[rot_adamw_lr0.0003_seed2] step   25  loss 3.6559
+[rot_adamw_lr0.0003_seed2] step   50  loss 4.2281
+[rot_adamw_lr0.0003_seed2] step   75  loss 3.5163
+[rot_adamw_lr0.0003_seed2] step  100  loss 3.2991
+[rot_adamw_lr0.0003_seed2] step  125  loss 3.5267
+[rot_adamw_lr0.0003_seed2] step  150  loss 3.3726
+[rot_adamw_lr0.0003_seed2] step  175  loss 3.4881
+[rot_adamw_lr0.0003_seed2] step  200  loss 3.2885
+[rot_adamw_lr0.0003_seed2] step  225  loss 3.2407
+[rot_adamw_lr0.0003_seed2] step  250  loss 3.4417
+[rot_adamw_lr0.0003_seed2] step  275  loss 3.5628
+[rot_adamw_lr0.0003_seed2] step  300  loss 3.4852
+[rot_adamw_lr0.0003_seed2] step  325  loss 3.5770
+[rot_adamw_lr0.0003_seed2] step  350  loss 3.3609
+[rot_adamw_lr0.0003_seed2] step  375  loss 3.0918
+[done] results/rot_adamw_lr0.0003_seed2.csv
+8 run trovati.
+[fase1] |delta loss| SGD: media=5.99e-05  max=1.68e-04
+        atteso: ~1e-4/1e-3 (rumore fp32). Se e' O(0.1) c'e' un bug.
+[fig] fig1_sgd_control.png
+[fig] fig2_adamw_gap.png
+[fig] fig3_lr_sweep.png
