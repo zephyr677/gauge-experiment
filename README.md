@@ -193,6 +193,8 @@ training:
 | log-condition-number of the diagonally-preconditioned Fisher | this project, second attempt | +0.46 | **fails outright**: non-monotone even inside the Q(t) family. λ_min of a 64-batch Fisher estimate is sampling noise (including the near-null gauge directions), and κ is dominated by it. A theoretically motivated but statistically fragile proposal — disclosed as such. |
 | coefficient of variation of the singular values of Adam's effective update m̂/(√v̂+ε), per layer | Maes, Zhang et al. (2024), their §4.2 | +0.96 | **wins**: orders all 7 points correctly (the single t=0.75/t=1 inversion is within single-seed noise), *separates* Haar (CV 1.399) from Q(1) (1.313) where the L1 metric saturates, and places Q* (0.948) below even the native basis (1.099). |
 
+![Three-metric comparison across seven function-identical bases](results_qt/fig_qt_full.png)
+
 The last number is the punchline of the comparison:
 
 > **CV(Q\*) = 0.948 < CV(native) = 1.099.** The Fisher eigenbasis produces
@@ -365,7 +367,7 @@ python src/qt_sweep.py --stage build|fisher|train|orth|analyze   # §3.8
 python src/qt_extra.py --stage metrics|cv|scatter                # §3.8 head-to-head
 ```
 
-Total compute: ~15 credits (~$15) on a Lightning AI L4. Every number in this
+Total compute: \~15 credits (\~$15) on a Lightning AI L4. Every number in this
 README comes out of a CSV in `results*/`.
 
 ---
